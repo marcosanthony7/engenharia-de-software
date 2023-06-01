@@ -1,7 +1,7 @@
 # engenharia-de-software
 
 - Objetivo:
-  - Inserir as atividades em equipe da disciplina de Engenharia de Software
+  - Inserir os arquivos entregues da disciplina de Engenharia de Software
 
 - Equipe:
   - Marcos Anthony
