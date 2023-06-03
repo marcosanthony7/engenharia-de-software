@@ -5,7 +5,7 @@
 
 - Equipe:
   - Marcos Anthony
-  - Anthony Victor
   - Thiago Rogério
+  - Anthony Victor
   - Cláudio Alberto
   - Cláudio Lucas
