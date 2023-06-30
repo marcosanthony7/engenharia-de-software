@@ -7,5 +7,4 @@
   - Marcos Anthony
   - Thiago Rogério
   - Anthony Victor
-  - Claudio Alberto
   - Cláudio Lucas
