@@ -1,7 +1,7 @@
 # engenharia-de-software
 
 - Objetivo:
-  - Inserir os trabalhos desenvolvidos na disciplina de Engenharia de Softwar
+  - Inserir os trabalhos desenvolvidos na disciplina de Engenharia de Software
 
 - Equipe:
   - Marcos Anthony
