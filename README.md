@@ -1,7 +1,7 @@
 # engenharia-de-software
 
 - Objetivo:
-  - Inserir os arquivos entregues da disciplina de Engenharia de Software
+  - Inserir os trabalhos desenvolvidos na disciplina de Engenharia de Software em 2023
 
 - Equipe:
   - Marcos Anthony
